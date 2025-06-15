@@ -11,7 +11,7 @@ namespace LeaveManagementSystem.Web.Controllers
                 {
                 Name = "Student",
                 DateOfBirth = new DateTime(2000,10,11)
-
+                
                 };
 
 
